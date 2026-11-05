@@ -40,4 +40,3 @@ The desktop window is titled **Agra's** and provides three main sections: **Clie
 
 The repository includes IntelliJ IDEA module metadata. It does not include a Maven or Gradle build configuration or a bundled JDBC driver.
 
-## Getting Started
